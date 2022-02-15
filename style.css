@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://images.unsplash.com/photo-1519750783826-e2420f4d687f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YnJpZ2h0JTIwYmFja2dyb3VuZHxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: 'Supermercado One', cursive;
+    color:aqua;
+}
+
+#id{
+    width:120px;
+    height: 40px;
+    background-color:blueviolet;
+    border-color: blueviolet;
+    color: snow;
+}
+
+img{
+    margin:10px;
+    margin-top: 80px;
+}
